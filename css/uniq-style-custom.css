@@ -114,7 +114,7 @@ body.uniq-boxed .uniq-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .uniq-header-style-plain{ box-shadow: 0px 0px  rgba(0, 0, 0, 0.1); -webkit-box-shadow: 0px 0px  rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 0px  rgba(0, 0, 0, 0.1); } 
 .uniq-logo{ padding-top: 69px; } 
 .uniq-logo{ padding-bottom: 55px; } 
-.uniq-logo-inner{ max-width: 85px; } 
+.uniq-logo-inner{ max-width: 145px; } 
 .uniq-navigation{ padding-top: 73px; }.uniq-navigation-top{ top: 73px; } 
 .uniq-navigation .sf-menu > li > a{ padding-bottom: 18px; } 
 .uniq-navigation .uniq-main-menu{ padding-right: 0px; } 
