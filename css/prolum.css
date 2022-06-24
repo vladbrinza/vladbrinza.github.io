@@ -1,7 +1,7 @@
-#gdlr-core-wrapper-5 {
-    display: none;
-}
-#gdlr-core-wrapper-4 {
+#gdlr-core-wrapper-5,
+#gdlr-core-wrapper-4,
+#gdlr-core-wrapper-6,
+#what-clients-say {
     display: none;
 }
 .footer-logo{
