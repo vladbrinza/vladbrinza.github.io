@@ -1,9 +1,21 @@
 #gdlr-core-wrapper-5,
 #gdlr-core-wrapper-4,
 #gdlr-core-wrapper-6,
+.ambalaje .filter,
 #what-clients-say {
     display: none;
 }
 .footer-logo{
     max-width: 200px;
+}
+.benzi-adezive b {
+    color: white;
+}
+.green-text{
+    color:#339966;
+}
+
+.folie-stretch .uniq-page-caption,
+.text-align-left{
+    text-align: left;
 }

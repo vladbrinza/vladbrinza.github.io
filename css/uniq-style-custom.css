@@ -123,8 +123,8 @@ body.uniq-boxed .uniq-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .uniq-animate-fixed-navigation.uniq-header-style-plain .uniq-logo, .uniq-animate-fixed-navigation.uniq-header-style-boxed .uniq-logo{ padding-bottom: 20px; } 
 .uniq-animate-fixed-navigation.uniq-header-style-plain .uniq-navigation, .uniq-animate-fixed-navigation.uniq-header-style-boxed .uniq-navigation{ padding-top: 24px; }.uniq-animate-fixed-navigation.uniq-header-style-plain .uniq-navigation-top, .uniq-animate-fixed-navigation.uniq-header-style-boxed .uniq-navigation-top{ top: 24px; } 
 .uniq-animate-fixed-navigation.uniq-header-style-plain .uniq-navigation .sf-menu > li > a, .uniq-animate-fixed-navigation.uniq-header-style-boxed .uniq-navigation .sf-menu > li > a{ padding-bottom: 24px; } 
-.uniq-page-title-wrap.uniq-style-custom .uniq-page-title-content{ padding-top: 115px; } 
-.uniq-page-title-wrap.uniq-style-custom .uniq-page-title-content{ padding-bottom: 119px; } 
+.uniq-page-title-wrap.uniq-style-custom .uniq-page-title-content{ padding-top: 35px; } 
+.uniq-page-title-wrap.uniq-style-custom .uniq-page-title-content{ padding-bottom: 35px; } 
 .uniq-page-title-wrap.uniq-style-custom .uniq-page-caption{ margin-top: 13px; } 
 .uniq-page-title-wrap .uniq-page-title{ text-transform: none; } 
 .uniq-page-title-wrap.uniq-style-custom .uniq-page-title{ font-size: 80px; } 
