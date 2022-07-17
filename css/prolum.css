@@ -2,7 +2,8 @@
 #gdlr-core-wrapper-4,
 #gdlr-core-wrapper-6,
 .ambalaje .filter,
-#what-clients-say {
+#what-clients-say,
+.hide-element {
     display: none;
 }
 .footer-logo{
