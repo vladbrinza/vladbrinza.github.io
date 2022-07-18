@@ -20,3 +20,29 @@
 .text-align-left{
     text-align: left;
 }
+
+.gdlr-core-portfolio-medium-feature {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+/*--- mobile landscape style ---*/
+@media only screen and (max-width: 767px){
+    body .gdlr-core-container-custom{
+        max-width: 100% !important;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .gdlr-core-portfolio-medium-feature .gdlr-core-portfolio-content-wrap{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .uniq-item-pdlr, .gdlr-core-item-pdlr{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .gdlr-core-portfolio-medium-feature {
+        margin-right: 35px;
+    }
+    
+}
