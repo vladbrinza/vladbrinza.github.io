@@ -1729,10 +1729,11 @@ ul.gdlr-core-category-background-widget li.gdlr-core-with-bg a:hover{ color: #ff
 .gdlr-core-zoom-on-hover{ overflow: hidden; }
 .gdlr-core-zoom-on-hover:hover img{ -webkit-transform: scale(1.1); transform: scale(1.1); }
 .gdlr-core-grayscale-effect img{
-	-webkit-filter: grayscale(100%); 
+	/* -webkit-filter: grayscale(100%); 
 	-moz-filter: grayscale(100%); 
 	-o-filter: grayscale(100%); 
-	filter: grayscale(100%); }
+	filter: grayscale(100%); */
+}
 .gdlr-core-grayscale-effect:hover img{
 	-webkit-filter: grayscale(0%);
 	-moz-filter: grayscale(0%); 
