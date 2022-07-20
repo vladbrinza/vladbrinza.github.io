@@ -26,6 +26,10 @@
     margin-bottom: 30px;
 }
 
+.gdlr-core-social-network-item {
+    display: none;
+}
+
 /*--- mobile landscape style ---*/
 @media only screen and (max-width: 767px){
     body .gdlr-core-container-custom{
